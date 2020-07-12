@@ -1,6 +1,6 @@
 # Traveling Salesman Problem
 
-Solve TSP using genetic algorithm using Python
+Solve TSP using genetic algorithm
 
 ![](result.png)
 
